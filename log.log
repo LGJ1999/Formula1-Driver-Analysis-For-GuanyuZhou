@@ -1,0 +1,218 @@
+Driver 688 saved successfully!
+Driver 689 saved successfully!
+Driver 690 saved successfully!
+Driver 691 saved successfully!
+Driver 692 saved successfully!
+Driver 693 saved successfully!
+Driver 694 saved successfully!
+Driver 695 saved successfully!
+Driver 696 saved successfully!
+Driver 697 saved successfully!
+Driver 698 saved successfully!
+Driver 699 saved successfully!
+Driver 700 saved successfully!
+Driver 701 saved successfully!
+Driver 702 saved successfully!
+Driver 703 saved successfully!
+Driver 704 saved successfully!
+Driver 705 saved successfully!
+Driver 706 saved successfully!
+Driver 707 saved successfully!
+Driver 708 saved successfully!
+Driver 709 saved successfully!
+Driver 710 saved successfully!
+Driver 711 saved successfully!
+Driver 712 saved successfully!
+Driver 713 saved successfully!
+Driver 714 saved successfully!
+Driver 715 saved successfully!
+Driver 716 saved successfully!
+Driver 717 saved successfully!
+Driver 718 saved successfully!
+Driver 719 saved successfully!
+Driver 720 saved successfully!
+Driver 721 saved successfully!
+Driver 722 saved successfully!
+Driver 723 saved successfully!
+Driver 724 saved successfully!
+Driver 725 saved successfully!
+Driver 726 saved successfully!
+Driver 727 saved successfully!
+Driver 728 saved successfully!
+Driver 729 saved successfully!
+Driver 730 saved successfully!
+Driver 731 saved successfully!
+Driver 732 saved successfully!
+Driver 733 saved successfully!
+Driver 734 saved successfully!
+Driver 735 saved successfully!
+Driver 736 saved successfully!
+Driver 737 saved successfully!
+Driver 738 saved successfully!
+Driver 739 saved successfully!
+Driver 740 saved successfully!
+Driver 741 saved successfully!
+Driver 742 saved successfully!
+Driver 743 saved successfully!
+Driver 744 saved successfully!
+Driver 745 saved successfully!
+Driver 746 saved successfully!
+Driver 747 saved successfully!
+Driver 748 saved successfully!
+Driver 749 saved successfully!
+Driver 750 saved successfully!
+Driver 751 saved successfully!
+Driver 752 saved successfully!
+Driver 753 saved successfully!
+Traceback (most recent call last):
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\site-packages\IPython\core\interactiveshell.py", line 3343, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-419e699255fd>", line 1, in <module>
+    runfile('C:/Users/12288/Desktop/GetF2andF3Data/Get data.py', wdir='C:/Users/12288/Desktop/GetF2andF3Data')
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\plugins\python-ce\helpers\pydev\_pydev_bundle\pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\plugins\python-ce\helpers\pydev\_pydev_imps\_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "C:/Users/12288/Desktop/GetF2andF3Data/Get data.py", line 85, in <module>
+    careerData(fullName, raceYear)
+  File "C:/Users/12288/Desktop/GetF2andF3Data/Get data.py", line 52, in careerData
+    driverDB = googleSearch(name)
+  File "C:/Users/12288/Desktop/GetF2andF3Data/Get data.py", line 45, in googleSearch
+    for j in search(query, tld="co.in", num=1, stop=1, pause=2):
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\site-packages\googlesearch\__init__.py", line 305, in search
+    html = get_page(url, user_agent, verify_ssl)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\site-packages\googlesearch\__init__.py", line 174, in get_page
+    response = urlopen(request)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 526, in open
+    response = self._open(req, data)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 544, in _open
+    '_open', req)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 504, in _call_chain
+    result = func(*args)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1361, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\urllib\request.py", line 1321, in do_open
+    r = h.getresponse()
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 266, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+Driver 754 saved successfully!
+Driver 755 saved successfully!
+Driver 756 saved successfully!
+Driver 757 saved successfully!
+Driver 758 saved successfully!
+Driver 759 saved successfully!
+Driver 760 saved successfully!
+Driver 761 saved successfully!
+Driver 762 saved successfully!
+Driver 763 saved successfully!
+Driver 764 saved successfully!
+Driver 765 saved successfully!
+Driver 766 saved successfully!
+Driver 767 saved successfully!
+Driver 768 saved successfully!
+Driver 769 saved successfully!
+Driver 770 saved successfully!
+Driver 771 saved successfully!
+Driver 772 saved successfully!
+Driver 773 saved successfully!
+Driver 774 saved successfully!
+Driver 775 saved successfully!
+Driver 776 saved successfully!
+Driver 777 saved successfully!
+Driver 778 saved successfully!
+Driver 779 saved successfully!
+Driver 780 saved successfully!
+Driver 781 saved successfully!
+Driver 782 saved successfully!
+Driver 783 saved successfully!
+Driver 784 saved successfully!
+Driver 785 saved successfully!
+Driver 786 saved successfully!
+Driver 787 saved successfully!
+Driver 788 saved successfully!
+Driver 789 saved successfully!
+Driver 790 saved successfully!
+Driver 791 saved successfully!
+Driver 792 saved successfully!
+Driver 793 saved successfully!
+Driver 794 saved successfully!
+Driver 795 saved successfully!
+Driver 796 saved successfully!
+Driver 797 saved successfully!
+Driver 798 saved successfully!
+Driver 799 saved successfully!
+Driver 800 saved successfully!
+Driver 801 saved successfully!
+Driver 802 saved successfully!
+Driver 803 saved successfully!
+Driver 804 saved successfully!
+Driver 805 saved successfully!
+Driver 806 saved successfully!
+Driver 807 saved successfully!
+Driver 808 saved successfully!
+Driver 809 saved successfully!
+Driver 810 saved successfully!
+Driver 811 saved successfully!
+Driver 812 saved successfully!
+Driver 813 saved successfully!
+Driver 814 saved successfully!
+Driver 815 saved successfully!
+Driver 816 saved successfully!
+Driver 817 saved successfully!
+Driver 818 saved successfully!
+Driver 819 saved successfully!
+Driver 820 saved successfully!
+Driver 821 saved successfully!
+Driver 822 saved successfully!
+Driver 823 saved successfully!
+Driver 824 saved successfully!
+Driver 825 saved successfully!
+Driver 826 saved successfully!
+Driver 827 saved successfully!
+Driver 828 saved successfully!
+Driver 829 saved successfully!
+Driver 830 saved successfully!
+Driver 831 saved successfully!
+Driver 832 saved successfully!
+Driver 833 saved successfully!
+Driver 834 saved successfully!
+Driver 835 saved successfully!
+Driver 836 saved successfully!
+Driver 837 saved successfully!
+Driver 838 saved successfully!
+Driver 839 saved successfully!
+Driver 840 saved successfully!
+Driver 841 saved successfully!
+Driver 842 saved successfully!
+Driver 843 saved successfully!
+Driver 844 saved successfully!
+Driver 845 saved successfully!
+Driver 846 saved successfully!
+Driver 847 saved successfully!
+Driver 848 saved successfully!
+Driver 849 saved successfully!
+Driver 850 saved successfully!
+Driver 851 saved successfully!
+Driver 852 saved successfully!
+Traceback (most recent call last):
+  File "C:\Users\12288\AppData\Local\Programs\Python\Python36\lib\site-packages\IPython\core\interactiveshell.py", line 3343, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-2-419e699255fd>", line 1, in <module>
+    runfile('C:/Users/12288/Desktop/GetF2andF3Data/Get data.py', wdir='C:/Users/12288/Desktop/GetF2andF3Data')
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\plugins\python-ce\helpers\pydev\_pydev_bundle\pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\plugins\python-ce\helpers\pydev\_pydev_imps\_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "C:/Users/12288/Desktop/GetF2andF3Data/Get data.py", line 90, in <module>
+    careerData("Guanyu Zhou", 2022)
+  File "C:/Users/12288/Desktop/GetF2andF3Data/Get data.py", line 76, in careerData
+    print('Driver ' + str(i) + ' saved successfully!')
+NameError: name 'i' is not defined
+Driver 999 saved successfully!
